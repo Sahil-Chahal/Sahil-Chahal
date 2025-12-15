@@ -305,3 +305,35 @@ I'm always open to interesting conversations and collaboration opportunities!
 **Thanks for visiting! Feel free to star ⭐ repositories you find interesting!**
 
 </div>
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,00BFFF&height=180&section=header&text=SAHIL%20CHAHAL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33E9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor;Automation+%26+AI+Enthusiast;Building+Tech+at+IIIT+Jabalpur" alt="Typing SVG" />
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Chahal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilchahal01)
+[![Email](https://img.shields.io/badge/Email-chahal.sahil0102%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahal.sahil0102@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sahilchahal01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilchahal01)
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=sahilchahal01&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ About Me
+
+</div> 
+
+
